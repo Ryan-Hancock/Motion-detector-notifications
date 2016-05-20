@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listArray">
+        <item>10 seconds</item>
+        <item>20 seconds</item>
+        <item>30 seconds</item>
+    </string-array>
+    <string-array name="listValues">
+        <item>10000</item>
+        <item>20000</item>
+        <item>30000</item>
+    </string-array>
+</resources>

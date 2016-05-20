@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Backup">
+
+        <CheckBoxPreference
+            android:key="cloudBoxPref"
+            android:defaultValue="true"
+            android:title="Via Cloud"
+           android:summary="allow backup on internet"/>
+
+        <CheckBoxPreference
+            android:key="saveBoxPref"
+            android:defaultValue="true"
+            android:title="Save onto device"
+            android:summary="Allow photos to be saved on device"/>
+
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="notification">
+        <CheckBoxPreference
+            android:key="emailBoxPref"
+            android:defaultValue="true"
+            android:title="Via E-mail"
+            android:summary="Send Motion notifications to E-mail"/>
+        <EditTextPreference
+            android:key="smsTextPref"
+            android:defaultValue="null"
+            android:title="Text notification"
+            android:summary="Send SMS to phone number"
+            android:inputType="number"/>
+        <CheckBoxPreference
+            android:key="beepBoxPref"
+            android:defaultValue="false"
+            android:title="Sound notification"
+            android:summary="Beep when motion detected"/>
+    </PreferenceCategory>
+     <PreferenceCategory
+         android:title="Detector Settings">
+         <ListPreference
+             android:key="timelist"
+             android:title="Time to detect"
+             android:summary="The time it takes to detect motion"
+             android:entries="@array/listArray"
+             android:entryValues="@array/listValues" />
+         <CheckBoxPreference
+             android:key="remoteBoxPref"
+             android:title="Remote start"
+             android:summary="Allow starting motion detection remotely"
+             android:defaultValue="false"/>
+     </PreferenceCategory>
+
+</PreferenceScreen>
