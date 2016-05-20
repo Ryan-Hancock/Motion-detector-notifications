@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\deraz\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\deraz\Desktop\Android-GridView-Advance-Tutorial-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-ca203704736256e92a098877c578c1119788d958.jar" />
+    </item>
+    <item
+        jar="C:\Users\deraz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\deraz\Desktop\Android-GridView-Advance-Tutorial-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-a53aff2fa923e1dd76a7ebbaf434cfed54a6939e.jar" />
+    </item>
+    <item
+        jar="C:\Users\deraz\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.1\f5aa318bda4c6c8d688c9d00b90681dcd82ce636\httpcore-4.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="C:\Users\deraz\Desktop\Android-GridView-Advance-Tutorial-master\app\build\intermediates\pre-dexed\debug\httpcore-4.4.1-d094cd230eed79c9cdb1bb66f15b1c8c26fa3ef4.jar" />
+    </item>
+    <item
+        jar="C:\Users\deraz\Desktop\Android-GridView-Advance-Tutorial-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\deraz\Desktop\Android-GridView-Advance-Tutorial-master\app\build\intermediates\pre-dexed\debug\classes-9082016b0201816f02f8d96340001441556f3879.jar" />
+    </item>
+    <item
+        jar="C:\Users\deraz\Desktop\Android-GridView-Advance-Tutorial-master\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\deraz\Desktop\Android-GridView-Advance-Tutorial-master\app\build\intermediates\pre-dexed\debug\classes-b6d00c30ede6ced94d77f12461593c51ce91a5f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\deraz\Desktop\Android-GridView-Advance-Tutorial-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\deraz\Desktop\Android-GridView-Advance-Tutorial-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-5337b55279b2818ca00f544ce1f8090882570c6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\deraz\Desktop\Android-GridView-Advance-Tutorial-master\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\deraz\Desktop\Android-GridView-Advance-Tutorial-master\app\build\intermediates\pre-dexed\debug\classes-6df612497bf2e233225d6a247e115ea365f0136d.jar" />
+    </item>
+    <item
+        jar="C:\Users\deraz\Desktop\Android-GridView-Advance-Tutorial-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\deraz\Desktop\Android-GridView-Advance-Tutorial-master\app\build\intermediates\pre-dexed\debug\classes-914ddfc72ef2ee3fc423706d4f7e6215efdebeaf.jar" />
+    </item>
+
+</items>
